@@ -6,8 +6,7 @@ Clone the repo and run the following commands.
 bun install
 bun run dev
 ```
-
-![Demo](Demo.webm)
+![Demo](https://github.com/SoberDev/ButtonDesign/assets/149132260/fb4874b1-81d4-4b13-b460-a8964fda87b4)
 
 ## 🚀 Project Structure
 
