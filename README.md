@@ -7,7 +7,7 @@ bun install
 bun run dev
 ```
 
-![Demo](Demo.mp4)
+![Demo](Demo.webm)
 
 ## 🚀 Project Structure
 
